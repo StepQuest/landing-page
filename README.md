@@ -1,1 +1,1 @@
-# landing-page
+The Landing Page without adaptive CSS.
